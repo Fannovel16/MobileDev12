@@ -1,0 +1,2 @@
+Link source code: https://github.com/Fannovel16/Midterm-MobileDev-Kotlin
+Video demo: https://github.com/Fannovel16/Midterm-MobileDev-Kotlin/raw/refs/heads/main/demo_lite.mp4
